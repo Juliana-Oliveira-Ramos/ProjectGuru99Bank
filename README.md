@@ -1,4 +1,4 @@
-# ProjectGuru99BankProjeto Guru99Bank
+# ProjectGuru99Bank
 Repositório de estudo do projeto guru99 o guru bank 99, projeto com duração de 13 dias com um envio de um email a cada 24 horas contendo atividades para simular como seria o dia a dia de um profissional da qualidade,  cada dia :
 :wrench: Link do Projeto: https://www.guru99.com/live-testing-project.html
 
